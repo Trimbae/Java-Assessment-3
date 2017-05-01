@@ -1,2 +1,0 @@
-Han Solo,C123456,Astronomy,SW1234,10,Millenium Way,Falcon City,SW1MF
-Matt Trimby,C152537,ComSci,CM1234,319,Brincliffe Edge Road,Sheffield,SS1DE
